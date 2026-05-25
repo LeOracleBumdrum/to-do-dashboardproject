@@ -1,0 +1,1 @@
+# The purpose of this readme will be to comeback later to this repo and fill it with the scaffolding for this project, im just making the repo for it now so i can remember that i wanted to start this and hold myself accountable for sticking with it and coming back to learn how to do this.
